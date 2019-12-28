@@ -1,4 +1,5 @@
 ## Chocolate Milk
-You chose Chocolate Milk. Now do do you drink it with :
+You decide to get Chocolate Milk. Now do you drink it with :
 [Cookies](cookies.md)
+or
 [Cupcakes](cupcakes.md)
